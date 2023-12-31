@@ -1,7 +1,7 @@
 [build]
-  base = ""  
-  publish = "build/" 
-  functions = ""  
+  base = ""
+  publish = "build/"
+  functions = ""
 
 [dev]
   publish = "public/"
